@@ -1,0 +1,17 @@
+Graph G{
+    A [label="A\n(747,674,467)\nWeight: 4\nProfit: 3"];
+  B [label="B\n(407,630,467)\nWeight: 6\nProfit: 6"];
+  C [label="C\n(633,64,630)\nWeight: 7\nProfit: 6"];
+  D [label="D\n(333,446,700)\nWeight: 6\nProfit: 7"];
+  E [label="E\n(73,430,374)\nWeight: 4\nProfit: 7"];
+  A--B[label=5];
+  A--D[label=6];
+  A--C[label=8];
+  A--E[label=7];
+  B--C[label=9];
+  B--D[label=4];
+  B--E[label=3];
+  C--D[label=9];
+  C--E[label=6];
+  D--E[label=5];
+}

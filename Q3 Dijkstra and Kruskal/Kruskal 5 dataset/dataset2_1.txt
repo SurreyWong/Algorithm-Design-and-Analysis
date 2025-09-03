@@ -1,0 +1,15 @@
+Star A 747 674 467 4 3
+Star B 407 630 467 6 6
+Star C 633 064 630 7 6
+Star D 333 446 700 6 7
+Star E 073 430 374 4 7
+Route A-B Distance: 5
+Route A-C Distance: 8
+Route A-D Distance: 6
+Route A-E Distance: 7
+Route B-C Distance: 9
+Route B-D Distance: 4
+Route B-E Distance: 3
+Route C-D Distance: 9
+Route C-E Distance: 6
+Route D-E Distance: 5

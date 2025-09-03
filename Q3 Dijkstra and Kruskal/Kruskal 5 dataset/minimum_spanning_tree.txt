@@ -1,0 +1,4 @@
+Connected Stars: B - E Distance: 3
+Connected Stars: B - D Distance: 4
+Connected Stars: A - B Distance: 5
+Connected Stars: C - E Distance: 6

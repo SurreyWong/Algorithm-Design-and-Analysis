@@ -1,0 +1,74 @@
+Star A 4 647 644 67 46
+Star B 707 730 474 77 70
+Star C 346 30 77 73 3
+Star D 636 476 630 37 37
+Star E 737 736 336 30 3
+Star F 33 600 667 76 34
+Star G 336 370 46 60 33
+Star H 603 774 303 7 30
+Star I 467 374 43 30 33
+Star J 470 736 430 76 73
+Star K 476 746 377 73 30
+Star L 77 70 444 40 34
+Star M 676 43 763 60 73
+Star N 706 46 643 74 36
+Star O 470 344 363 4 37
+Star P 463 747 4 7 70
+Star Q 634 674 336 73 40
+Star R 44 44 333 60 44
+Star S 336 733 734 37 47
+Star T 673 444 730 44 73
+Route Q-N Distance: 702.721
+Route S-J Distance: 332.236
+Route M-C Distance: 761.357
+Route T-C Distance: 839.484
+Route B-O Distance: 466.354
+Route H-F Distance: 698.335
+Route C-N Distance: 670.978
+Route J-E Distance: 283.064
+Route C-P Distance: 730.142
+Route L-O Distance: 485.887
+Route I-F Distance: 792.974
+Route F-A Distance: 59.8247
+Route M-L Distance: 679.184
+Route A-E Distance: 800.046
+Route E-R Distance: 979.348
+Route J-C Distance: 799.013
+Route F-B Distance: 713.039
+Route G-T Distance: 766.095
+Route O-E Distance: 475.06
+Route E-Q Distance: 120.221
+Route F-Q Distance: 690.1
+Route T-A Distance: 704.391
+Route C-R Distance: 396.151
+Route N-A Distance: 924.124
+Route F-K Distance: 549.24
+Route F-G Distance: 728.251
+Route L-R Distance: 118.684
+Route P-H Distance: 331.255
+Route E-K Distance: 264.39
+Route T-H Distance: 544.177
+Route L-E Distance: 943.833
+Route B-A Distance: 728.01
+Route J-R Distance: 818.382
+Route C-D Distance: 767.349
+Route M-T Distance: 402.367
+Route R-G Distance: 523.363
+Route I-H Distance: 496.081
+Route B-K Distance: 251.05
+Route N-L Distance: 660.165
+Route N-T Distance: 408.732
+Route N-O Distance: 472.123
+Route E-F Distance: 789.73
+Route P-I Distance: 375.055
+Route B-S Distance: 453.045
+Route R-F Distance: 648.701
+Route I-N Distance: 724.365
+Route G-J Distance: 547.145
+Route H-J Distance: 187.782
+Route C-O Distance: 442.457
+Route D-Q Distance: 354.463
+Route G-H Distance: 548.228
+Route C-G Distance: 341.557
+Route E-B Distance: 141.351
+Route L-K Distance: 787.824

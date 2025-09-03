@@ -1,0 +1,74 @@
+Star A 747 674 467 43 43
+Star B 407 630 467 63 60
+Star C 633 64 630 73 67
+Star D 333 446 700 63 76
+Star E 73 430 374 43 67
+Star F 340 430 360 4 46
+Star G 773 663 406 63 63
+Star H 43 630 43 67 43
+Star I 340 4 477 7 6
+Star J 346 636 7 67 76
+Star K 307 70 704 64 33
+Star L 636 407 306 43 73
+Star M 364 660 4 7 6
+Star N 463 634 400 34 40
+Star O 404 667 776 0 64
+Star P 700 300 300 36 30
+Star Q 673 730 67 4 74
+Star R 760 64 307 33 46
+Star S 434 734 436 66 47
+Star T 660 60 6 0 76
+Route C - F Distance: 541.022
+Route D - T Distance: 858.814
+Route L - P Distance: 124.824
+Route L - C Distance: 471.841
+Route Q - B Distance: 490.669
+Route G - E Distance: 738.453
+Route J - C Distance: 893.13
+Route K - Q Distance: 987.585
+Route H - F Distance: 478.224
+Route A - D Distance: 410.624
+Route M - D Distance: 728.816
+Route K - D Distance: 376.919
+Route F - K Distance: 499.024
+Route K - T Distance: 782.249
+Route R - Q Distance: 713.25
+Route G - P Distance: 385.142
+Route L - I Distance: 528.456
+Route H - S Distance: 564.044
+Route R - B Distance: 685.977
+Route D - L Distance: 498.564
+Route S - Q Distance: 439.657
+Route P - F Distance: 387.427
+Route O - J Distance: 771.807
+Route T - B Distance: 775.519
+Route O - L Distance: 585.085
+Route M - E Distance: 523.909
+Route I - G Distance: 791.714
+Route M - C Distance: 905.236
+Route A - I Distance: 783.996
+Route O - G Distance: 522.568
+Route M - G Distance: 573.493
+Route D - C Distance: 490.738
+Route Q - N Distance: 405.222
+Route O - M Distance: 773.067
+Route A - P Distance: 412.279
+Route H - M Distance: 324.749
+Route M - F Distance: 424.514
+Route C - K Distance: 334.347
+Route I - D Distance: 495.118
+Route S - B Distance: 111.83
+Route N - M Distance: 409.015
+Route P - N Distance: 421.574
+Route E - C Distance: 716.304
+Route F - I Distance: 441.775
+Route F - B Distance: 236.512
+Route I - B Distance: 629.655
+Route I - P Distance: 498.543
+Route N - J Distance: 410.051
+Route J - A Distance: 611.429
+Route B - H Distance: 558.813
+Route O - R Distance: 842.797
+Route G - A Distance: 67.2161
+Route G - L Distance: 307.091
+Route E - R Distance: 781.29

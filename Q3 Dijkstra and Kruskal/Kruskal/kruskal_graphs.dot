@@ -1,0 +1,43 @@
+graph G {
+
+A [label="A\n(747,674,467)\nWeight: 67\nProfit: 46"];
+  B [label="B\n(407,630,467)\nWeight: 77\nProfit: 70"];
+  C [label="C\n(633,64,630)\nWeight: 73\nProfit: 3"];
+  D [label="D\n(333,446,700)\nWeight: 37\nProfit: 37"];
+  E [label="E\n(73,430,374)\nWeight: 30\nProfit: 3"];
+  F [label="F\n(340,430,360)\nWeight: 76\nProfit: 34"];
+  G [label="G\n(773,663,406)\nWeight: 60\nProfit: 33"];
+  H [label="H\n(43,630,43)\nWeight: 7\nProfit: 30"];
+  I [label="I\n(340,4,477)\nWeight: 30\nProfit: 33"];
+  J [label="J\n(346,636,7)\nWeight: 76\nProfit: 73"];
+  K [label="K\n(307,70,704)\nWeight: 73\nProfit: 30"];
+  L [label="L\n(636,407,306)\nWeight: 40\nProfit: 34"];
+  M [label="M\n(364,660,4)\nWeight: 60\nProfit: 73"];
+  N [label="N\n(463,634,400)\nWeight: 74\nProfit: 36"];
+  O [label="O\n(404,667,776)\nWeight: 4\nProfit: 37"];
+  P [label="P\n(700,300,300)\nWeight: 7\nProfit: 70"];
+  Q [label="Q\n(673,730,67)\nWeight: 73\nProfit: 40"];
+  R [label="R\n(760,64,307)\nWeight: 60\nProfit: 44"];
+  S [label="S\n(434,734,436)\nWeight: 37\nProfit: 47"];
+  T [label="T\n(660,60,6)\nWeight: 44\nProfit: 73"];
+      G -- A [label="67.2161"];
+      S -- B[label="111.83"];
+      L--P[label="124.824"];
+      F--B[label="236.512"];
+      G--L[label="307.091"];
+      H--M[label="324.749"];
+      C--K[label="334.347"];
+      K--D[label="376.919"];
+      P--F[label="387.427"];
+      Q--N[label="405.222"];
+      N--M[label="409.015"];
+      N--J[label="410.051"];
+      A--Q[label="410.624"];
+      F--I[label="441.775"];
+      L--C[label="471.841"];
+      O--G[label="522.568"];
+      M--E[label="523.909"];
+      R--B[label="685.977"];
+      T--B[label="775.519"];
+  
+}

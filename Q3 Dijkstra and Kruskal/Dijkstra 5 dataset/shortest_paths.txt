@@ -1,0 +1,5 @@
+Shortest distance from Star A to Star A is 0
+Shortest distance from Star A to Star B is 5
+Shortest distance from Star A to Star C is 8
+Shortest distance from Star A to Star D is 6
+Shortest distance from Star A to Star E is 7

@@ -1,0 +1,20 @@
+Shortest distance from Star A to Star A is 0, path: {A}
+Shortest distance from Star A to Star B is 1036.22, path: {A, P, F, B}
+Shortest distance from Star A to Star C is 846.148, path: {A, G, L, C}
+Shortest distance from Star A to Star D is 410.624, path: {A, D}
+Shortest distance from Star A to Star E is 805.669, path: {A, G, E}
+Shortest distance from Star A to Star F is 799.706, path: {A, P, F}
+Shortest distance from Star A to Star G is 67.2161, path: {A, G}
+Shortest distance from Star A to Star H is 965.458, path: {A, G, M, H}
+Shortest distance from Star A to Star I is 783.996, path: {A, I}
+Shortest distance from Star A to Star J is 611.429, path: {A, J}
+Shortest distance from Star A to Star K is 787.543, path: {A, D, K}
+Shortest distance from Star A to Star L is 374.307, path: {A, G, L}
+Shortest distance from Star A to Star M is 640.709, path: {A, G, M}
+Shortest distance from Star A to Star N is 833.853, path: {A, P, N}
+Shortest distance from Star A to Star O is 589.784, path: {A, G, O}
+Shortest distance from Star A to Star P is 412.279, path: {A, P}
+Shortest distance from Star A to Star Q is 1239.08, path: {A, P, N, Q}
+Shortest distance from Star A to Star R is 1432.58, path: {A, G, O, R}
+Shortest distance from Star A to Star S is 1148.05, path: {A, P, F, B, S}
+Shortest distance from Star A to Star T is 1269.44, path: {A, D, T}
