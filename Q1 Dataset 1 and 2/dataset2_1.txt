@@ -1,0 +1,74 @@
+Star A 647 770 333 66 0
+Star B 336 744 746 34 37
+Star C 403 44 670 60 73
+Star D 304 366 307 46 64
+Star E 467 434 443 37 77
+Star F 66 344 37 30 73
+Star G 634 647 777 67 67
+Star H 367 67 343 4 36
+Star I 644 440 464 4 67
+Star J 3 303 66 47 7
+Star K 407 733 477 47 7
+Star L 706 336 703 40 70
+Star M 703 700 733 66 3
+Star N 343 663 34 33 30
+Star O 770 407 363 34 3
+Star P 300 73 466 60 73
+Star Q 773 707 3 47 37
+Star R 303 776 730 47 37
+Star S 77 607 64 77 30
+Star T 364 700 40 4 0
+Route A-N Distance: 439.62
+Route S-P Distance: 704.62
+Route H-A Distance: 756.775
+Route S-C Distance: 889.09
+Route M-A Distance: 409.922
+Route Q-M Distance: 733.382
+Route N-O Distance: 596.746
+Route R-J Distance: 868.692
+Route M-S Distance: 920.916
+Route T-R Distance: 696.848
+Route N-P Distance: 732.511
+Route S-I Distance: 713.707
+Route M-H Distance: 815.895
+Route Q-P Distance: 916.545
+Route C-L Distance: 422.092
+Route R-F Distance: 850.319
+Route M-D Distance: 672.483
+Route M-T Distance: 771.473
+Route P-I Distance: 503.02
+Route S-Q Distance: 705.788
+Route M-J Distance: 1045.23
+Route I-M Distance: 378.737
+Route L-Q Distance: 795.066
+Route R-O Distance: 699.242
+Route C-G Distance: 654.537
+Route C-I Distance: 507.28
+Route C-N Distance: 889.526
+Route S-J Distance: 312.883
+Route T-L Distance: 830.078
+Route I-L Distance: 267.92
+Route J-O Distance: 829.044
+Route E-S Distance: 570.675
+Route J-C Distance: 769.348
+Route B-G Distance: 314.919
+Route E-G Distance: 429.9
+Route S-D Distance: 410.681
+Route C-E Distance: 455.769
+Route O-A Distance: 384.445
+Route B-S Distance: 742.276
+Route Q-H Distance: 830.684
+Route J-L Distance: 949.245
+Route J-F Distance: 80.5667
+Route D-K Distance: 417.37
+Route S-O Distance: 780.801
+Route M-R Distance: 407.167
+Route S-L Distance: 936.698
+Route C-K Distance: 715.532
+Route P-B Distance: 727.968
+Route D-R Distance: 589.093
+Route J-Q Distance: 871.829
+Route I-T Distance: 570.768
+Route O-M Distance: 476.695
+Route E-R Distance: 475.635
+Route L-H Distance: 562.923
